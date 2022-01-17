@@ -8,6 +8,9 @@ import com.github.benmanes.caffeine.cache.stats.CacheStats;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
+/**
+ * https://blog.csdn.net/dgh112233/article/details/118915259?ops_request_misc=&request_id=&biz_id=102&utm_term=caffeine%E6%9F%A5%E7%9C%8B%E8%BF%87%E6%9C%9F%E6%97%B6%E9%97%B4&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-5-118915259.first_rank_v2_pc_rank_v29&spm=1018.2226.3001.4187
+ */
 public class Test4 {
 
     public static final Cache<String, String> CONFIG_STRINGS;
